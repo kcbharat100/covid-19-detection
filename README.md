@@ -7,3 +7,5 @@ https://github.com/ieee8023/covid-chestxray-dataset
 Normal X-rays have been taken from:
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
+Altogether there are 125 X-rays both for covid-19 and normal case.
+Also, there are seperate 8 different testing X-rays for each case.
