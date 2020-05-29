@@ -8,7 +8,11 @@ Normal X-rays have been taken from:
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 In dataset1: (normal vs covid)
-121 imagaes for training
+121 images for training
 21 images for test
+
+In dataset: ( normal vs covid vs pneumonia)
+each class has 142 images
+
 
 I'm working on this and will release code as soon as I get better accuracy.
