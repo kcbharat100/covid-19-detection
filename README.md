@@ -14,5 +14,7 @@ In dataset1: (normal vs covid)
 In dataset: ( normal vs covid vs pneumonia)
 each class has 142 images
 
+Dataset2 contains 206 images of covid 19, and 500 each images of normal, pneumonia virus and pneumonia bacteria respectively
+
 
 I'm working on this and will release code as soon as I get better accuracy.
