@@ -1,4 +1,4 @@
-# covid-19-detection-using-xrays
+# covid-19-detection-using-x-rays
 
 The detection of covid-19 is based on X-rays using deep learning model.
 
@@ -15,8 +15,7 @@ No_Findings and Pneumonia X-rays have been taken from the paper:
 TulinOzturk, MuhammedTalo, Eylul AzraYildirim, Ulas BaranBaloglu, OzalYildirim, U.Rajendra Acharya
 https://github.com/muhammedtalo/COVID-19
 
-
 Directory dataset_binary contains 500 "normal" and 206 "covid" xrays.
-
 Directory dataset_multi_class contains 500 "no_findings", 500 "pneumonia" and 206 "covid" xrays.
 
+Binary classification has been done by fine tuning VGG19 pretrained model. Test accuracy of 98.
