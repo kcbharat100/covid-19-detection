@@ -18,4 +18,4 @@ https://github.com/muhammedtalo/COVID-19
 Directory dataset_binary contains 500 "normal" and 206 "covid" xrays.
 Directory dataset_multi_class contains 500 "no_findings", 500 "pneumonia" and 206 "covid" xrays.
 
-Binary classification has been done by fine tuning VGG19 pretrained model. Test accuracy of 98.
+Binary classification has been done by fine tuning VGG19 pretrained model. Accuracy of 98.81% on test data has been achieved.
