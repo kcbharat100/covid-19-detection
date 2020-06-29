@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#018074</color>
+    <color name="colorPrimaryDark">#01675E</color>
+    <color name="colorAccent">#870096</color>
+    <color name="colorClick">#D906EF</color>
+    <color name="colorNormal">#05D70D</color>
+    <color name="colorCovid">#FF3324</color>
+    <color name="colorPneumonia">#027EE0</color>
+    <color name="colorNoFindings">#E3AB05</color>
+</resources>
