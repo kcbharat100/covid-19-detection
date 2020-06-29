@@ -18,4 +18,4 @@ https://github.com/muhammedtalo/COVID-19
 Directory dataset_binary contains 500 "normal" and 206 "covid" xrays.
 Directory dataset_multi_class contains 500 "no_findings", 500 "pneumonia" and 206 "covid" xrays.
 
-Binary classification has been done by fine tuning VGG19 and MobileNet pretrained models. Accuracy of 98.81% on test data has been achieved in VGG19 whereas 100% ( it is rarely happen- I will change the dataset split ratio and will update accuracy later) in MobileNet.
+Binary classification has been done by fine tuning VGG19 and MobileNet pretrained models. Accuracy of 98.81% on test data has been achieved in VGG19 whereas 100% test accuracy, which is rarely happens- I will change the dataset split ratio and will update accuracy later, in MobileNet.
