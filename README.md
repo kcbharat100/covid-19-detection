@@ -1,6 +1,6 @@
 # covid-19-detection-using-x-rays
 
-The detection of covid-19 is based on X-rays using deep learning model.
+The detection of covid-19 is based on X-rays using deep learning.
 
 Covid-19 X-rays have been taken from the paper:
 "COVID-19 Image Data Collection: Prospective Predictions Are the Future"
