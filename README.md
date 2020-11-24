@@ -19,3 +19,6 @@ Directory dataset_binary contains 500 "normal" and 206 "covid" xrays.
 Directory dataset_multi_class contains 500 "no_findings", 500 "pneumonia" and 206 "covid" xrays.
 
 Binary classification has been done and the current accuracy is 98.81% on test data.
+
+Demo:
+https://github.com/kcbharat100/covid-19-detection-using-x-rays/blob/master/download.jpg
