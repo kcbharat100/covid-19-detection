@@ -1,6 +1,6 @@
 # covid-19-detection-using-x-rays
 
-The detection of covid-19 is based on X-rays using deep learning model.
+The detection of covid-19 is based on X-rays using deep learning.
 
 Covid-19 X-rays have been taken from the paper:
 "COVID-19 Image Data Collection: Prospective Predictions Are the Future"
@@ -18,4 +18,9 @@ https://github.com/muhammedtalo/COVID-19
 Directory dataset_binary contains 500 "normal" and 206 "covid" xrays.
 Directory dataset_multi_class contains 500 "no_findings", 500 "pneumonia" and 206 "covid" xrays.
 
-Binary classification has been done by fine tuning VGG19 and MobileNet pretrained models. Accuracy of 98.81% on test data has been achieved in VGG19 whereas 100% in MobileNet.
+Binary classification has been done and the current accuracy is 98.81% on test data.
+
+Demo:
+![alt text][logo]
+
+[logo]: https://github.com/kcbharat100/covid-19-detection-using-x-rays/blob/master/download.jpg "Logo Title Text 2"
