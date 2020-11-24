@@ -22,3 +22,7 @@ Binary classification has been done and the current accuracy is 98.81% on test d
 
 Demo:
 https://github.com/kcbharat100/covid-19-detection-using-x-rays/blob/master/download.jpg
+
+![alt text][logo]
+
+[logo]: https://github.com/kcbharat100/covid-19-detection-using-x-rays/blob/master/download.jpg "Logo Title Text 2"
