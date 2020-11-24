@@ -24,4 +24,4 @@ Demo:
 
 ![alt text][logo]
 
-[logo]: https://github.com/kcbharat100/covid-19-detection-using-x-rays/blob/master/resources/video/covid-detection.gif
+[logo]: https://github.com/kcbharat100/covid-19-detection-using-x-rays/blob/master/resources/gif/covid%20gif%20video.gif
